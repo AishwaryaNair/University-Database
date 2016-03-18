@@ -1,0 +1,5 @@
+CREATE SCHEMA pr2;
+GO
+
+DROP SCHEMA pr2;
+GO
